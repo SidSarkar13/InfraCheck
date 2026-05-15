@@ -152,7 +152,7 @@ InfraCheck/
 
 **Siddharth Sarkar**
 Cloud Platform Engineer — Capgemini, Mumbai
-[GitHub](https://github.com/sidzeeee)
+[GitHub](https://github.com/SidSarkar13)
 
 ---
 
